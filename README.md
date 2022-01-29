@@ -1,2 +1,2 @@
 <strong>Example</strong>
-<p>Use fakerJS to generate a random dataset example according to input.</p>
+<p>Use <a href="https://fakerjs.dev/">fakerJS</a> to generate a random dataset example according to input.</p>
